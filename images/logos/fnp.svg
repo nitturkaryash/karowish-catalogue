@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" role="img" aria-label="FNP">
+  <rect x="2" y="8" width="24" height="24" rx="3" fill="#2E7D32"/>
+  <path d="M8 14 h12 v3 H11 v4 h8 v3 H11 v6 H8 Z" fill="#F4C430"/>
+  <text x="36" y="29" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="2" fill="#2E7D32">FNP</text>
+</svg>
